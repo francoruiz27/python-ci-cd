@@ -13,3 +13,4 @@ About Continuous Deployment.
 
 Continuous deployment is a strategy for software releases wherein any code commit that passes the automated testing phase is automatically released into the production environment, making changes that are visible to the software's users.
 
+asdpasdp
